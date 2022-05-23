@@ -1,6 +1,6 @@
 # Custom Shell Burp Extension
 
-## Contains extension created using jython environment
+- Contains extension created using jython environment
 
 ## Instruction 
     - Add jython extension to the environment
